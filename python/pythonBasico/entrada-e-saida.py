@@ -24,3 +24,14 @@ name = input('Digite o seu nome\n')
 age = input('Digite a sua idade\n')
 print(name, 'tem', age, 'anos de vida.')
 print(type(name), type(age))
+
+
+# operatings
+""" 
+it's the same as all languages
+* mult
++ add
+
+** (elevacao)
+etc
+"""
